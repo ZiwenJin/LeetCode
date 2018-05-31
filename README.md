@@ -1,3 +1,4 @@
 # LeetCode
 
-| No. | Problem | Difficulty | Tags|
+| No. | Problem | Difficulty | Tags |
+|:---:|:-------:|:----------:|:----:|
