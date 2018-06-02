@@ -9,8 +9,8 @@
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.ipynb)|Medium|Linked List|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/61.%20Rotate%20List.ipynb)|Medium|Linked List|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.ipynb)|Medium|Linked List|
-|83|[Partition List](https://leetcode.com/problems/partition-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List.ipynb)|Easy|Linked List|
-|86|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/86.%20Partition%20List.ipynb)|Medium|Linked List|
+|83|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/83.%20Remove%20Duplicates%20from%20Sorted%20List.ipynb)|Easy|Linked List|
+|86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/86.%20Partition%20List.ipynb)|Medium|Linked List|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/91.%20Decode%20Ways.ipynb)|Medium|DP|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/92.%20Reverse%20Linked%20List%20II.ipynb)|Medium|Linked List|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/141.%20Linked%20List%20Cycle.ipynb)|Easy|Linked List|
