@@ -13,6 +13,8 @@
 |86|[Partition List](https://leetcode.com/problems/partition-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/86.%20Partition%20List.ipynb)|Medium|Linked List|
 |91|[Decode Ways](https://leetcode.com/problems/decode-ways/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/91.%20Decode%20Ways.ipynb)|Medium|DP|
 |92|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/92.%20Reverse%20Linked%20List%20II.ipynb)|Medium|Linked List|
+|109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/109.%20Convert%20Sorted%20List%20to%20Binary%20Search%20Tree.ipynb)|Medium|Linked List|
+|138|[Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/138.%20Copy%20List%20with%20Random%20Pointer.ipynb)|Medium|Linked List|
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/141.%20Linked%20List%20Cycle.ipynb)|Easy|Linked List|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb)|Easy|Linked List|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/203.%20Remove%20Linked%20List%20Elements.ipynb)|Easy|Linked List|
