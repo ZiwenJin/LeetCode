@@ -18,6 +18,8 @@
 |141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/141.%20Linked%20List%20Cycle.ipynb)|Easy|Linked List|
 |142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/142.%20Linked%20List%20Cycle%20II.ipynb)|Medium|Linked List|
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/143.%20Reorder%20List.ipynb)|Medium|Linked List|
+|147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/147.%20Insertion%20Sort%20List.ipynb)|Medium|Linked List|
+|148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/148.%20Sort%20List.ipynb)|Medium|Linked List|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb)|Easy|Linked List|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/203.%20Remove%20Linked%20List%20Elements.ipynb)|Easy|Linked List|
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/206.%20Reverse%20Linked%20List.ipynb)|Easy|Linked List|
