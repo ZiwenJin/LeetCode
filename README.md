@@ -25,3 +25,7 @@
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/206.%20Reverse%20Linked%20List.ipynb)|Easy|Linked List|
 |234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/234.%20Palindrome%20Linked%20List.ipynb)|Easy|Linked List|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/237.%20Delete%20Node%20in%20a%20Linked%20List.ipynb)|Easy|Linked List|
+|328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/328.%20Odd%20Even%20Linked%20List.ipynb)|Medium|Linked List|
+|445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/445.%20Add%20Two%20Numbers%20II.ipynb)|Medium|Linked List|
+|725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/725.%20Split%20Linked%20List%20in%20Parts.ipynb)|Medium|Linked List|
+|817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/817.%20Linked%20List%20Components.ipynb)|Medium|Linked List|
