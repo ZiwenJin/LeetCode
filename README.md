@@ -6,8 +6,8 @@
 |2|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/2.%20Add%20Two%20Numbers.ipynb)|Medium|Linked List|
 |19|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.ipynb)|Medium|Linked List|
 |21|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/21.%20Merge%20Two%20Sorted%20Lists.ipynb)|Easy|Linked List|
-|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.ipynb)|Medium|Linked List|
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/23.%20Merge%20k%20Sorted%20Lists.ipynb)|Hard|Linked List|
+|24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.ipynb)|Medium|Linked List|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/25.%20Reverse%20Nodes%20in%20k-Group.ipynb)|Hard|Linked List|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/61.%20Rotate%20List.ipynb)|Medium|Linked List|
 |82|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/82.%20Remove%20Duplicates%20from%20Sorted%20List%20II.ipynb)|Medium|Linked List|
