@@ -2,9 +2,9 @@
 
 ### completeness level
 | Tag | Easy | Medium | Hard |
-|:---:|:----:|:------:|:- --:|
-|Linked List|✔|✔|✔|
-|Binary Search||||
+|:-:|:-:|:-:|:-:|
+|[Linked List](https://leetcode.com/problemset/all/?topicSlugs=linked-list)|✔|✔|✔|
+|[Binary Search](https://leetcode.com/problemset/all/?topicSlugs=binary-search)||||
 |Backtracking||||
 |DP||||
 |Tree||||
