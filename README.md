@@ -1,5 +1,21 @@
 # LeetCode
 
+### completeness level
+| Tag | Easy | Medium | Hard |
+|:---:|:----:|:------:|:- --:|
+|Linked List|✔|✔|✔|
+|Binary Search||||
+|Backtracking||||
+|DP||||
+|Tree||||
+|BST||||
+|Heap||||
+|Stack||||
+|Queue||||
+|DFS||||
+|BFS||||
+|Graph||||
+
 | No. | Problem | Solution | Difficulty | Tags |
 |:---:|:-------:|:--------:|:----------:|:----:|
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/1.%20Two%20Sum.ipynb)|Easy||
@@ -33,6 +49,10 @@
 |278|[First Bad Version](https://leetcode.com/problems/first-bad-version/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/278.%20First%20Bad%20Version.ipynb)|Easy|Binary Search|
 |328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/328.%20Odd%20Even%20Linked%20List.ipynb)|Medium|Linked List|
 |349|[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/349.%20Intersection%20of%20Two%20Arrays.ipynb)|Easy|Binary Search|
+|350|[Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/350.%20Intersection%20of%20Two%20Arrays%20II.ipynb)|Easy|Binary Search|
+|367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/367.%20Valid%20Perfect%20Square.ipynb)|Easy|Binary Search|
+|374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/374.%20Guess%20Number%20Higher%20or%20Lower.ipynb)|Easy|Binary Search|
+|441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/441.%20Arranging%20Coins.ipynb)|Easy|Binary Search|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/445.%20Add%20Two%20Numbers%20II.ipynb)|Medium|Linked List|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/725.%20Split%20Linked%20List%20in%20Parts.ipynb)|Medium|Linked List|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/817.%20Linked%20List%20Components.ipynb)|Medium|Linked List|
