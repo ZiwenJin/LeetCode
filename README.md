@@ -4,7 +4,7 @@
 | Tag | Easy | Medium | Hard |
 |:-:|:-:|:-:|:-:|
 |[Linked List](https://leetcode.com/problemset/all/?topicSlugs=linked-list)|✔|✔|✔|
-|[Binary Search](https://leetcode.com/problemset/all/?topicSlugs=binary-search)||||
+|[Binary Search](https://leetcode.com/problemset/all/?topicSlugs=binary-search)|✔|||
 |Backtracking||||
 |DP||||
 |Tree||||
@@ -55,5 +55,7 @@
 |374|[Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/374.%20Guess%20Number%20Higher%20or%20Lower.ipynb)|Easy|Binary Search|
 |441|[Arranging Coins](https://leetcode.com/problems/arranging-coins/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/441.%20Arranging%20Coins.ipynb)|Easy|Binary Search|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/445.%20Add%20Two%20Numbers%20II.ipynb)|Medium|Linked List|
+|475|[Heaters](https://leetcode.com/problems/heaters/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/475.%20Heaters.ipynb)|Easy|Binary Search|
 |725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/725.%20Split%20Linked%20List%20in%20Parts.ipynb)|Medium|Linked List|
+|744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/744.%20Find%20Smallest%20Letter%20Greater%20Than%20Target.ipynb)|Easy|Binary Search|
 |817|[Linked List Components](https://leetcode.com/problems/linked-list-components/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/817.%20Linked%20List%20Components.ipynb)|Medium|Linked List|
