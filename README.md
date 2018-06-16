@@ -26,6 +26,9 @@
 |23|[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/23.%20Merge%20k%20Sorted%20Lists.ipynb)|Hard|Linked List|
 |24|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/24.%20Swap%20Nodes%20in%20Pairs.ipynb)|Medium|Linked List|
 |25|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/25.%20Reverse%20Nodes%20in%20k-Group.ipynb)|Hard|Linked List|
+|29|[Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/29.%20Divide%20Two%20Integers.ipynb)|Medium|Binary Search|
+|33|[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/33.%20Search%20in%20Rotated%20Sorted%20Array.ipynb)|Medium|Binary Search|
+|34|[Search for a Range](https://leetcode.com/problems/search-for-a-range/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/34.%20Search%20for%20a%20Range.ipynb)|Medium|Binary Search|
 |35|[Search Insert Position](https://leetcode.com/problems/search-insert-position/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/35.%20Search%20Insert%20Position.ipynb)|Easy|Binary Search|
 |61|[Rotate List](https://leetcode.com/problems/rotate-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/61.%20Rotate%20List.ipynb)|Medium|Linked List|
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/69.%20Sqrt(x).ipynb)|Easy|Binary Search|
@@ -41,6 +44,7 @@
 |143|[Reorder List](https://leetcode.com/problems/reorder-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/143.%20Reorder%20List.ipynb)|Medium|Linked List|
 |147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/147.%20Insertion%20Sort%20List.ipynb)|Medium|Linked List|
 |148|[Sort List](https://leetcode.com/problems/sort-list/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/148.%20Sort%20List.ipynb)|Medium|Linked List|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/155.%20Min%20Stack.ipynb)|Easy|Stack|
 |160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/160.%20Intersection%20of%20Two%20Linked%20Lists.ipynb)|Easy|Linked List|
 |167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/167.%20Two%20Sum%20II%20-%20Input%20array%20is%20sorted.ipynb)|Easy|Binary Search|
 |203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/description/)|[python](https://github.com/ZiwenJin/LeetCode/blob/master/203.%20Remove%20Linked%20List%20Elements.ipynb)|Easy|Linked List|
