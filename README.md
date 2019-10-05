@@ -5,16 +5,16 @@
 |:-:|:-:|:-:|:-:|
 |[Linked List](https://leetcode.com/problemset/all/?topicSlugs=linked-list)|✔|✔|✔|
 |[Binary Search](https://leetcode.com/problemset/all/?topicSlugs=binary-search)|✔|||
-|Backtracking||||
-|DP||||
-|Tree||||
-|BST||||
-|Heap||||
-|Stack||||
-|Queue||||
-|DFS||||
-|BFS||||
-|Graph||||
+|[Backtracking](https://leetcode.com/problemset/all/?topicSlugs=backtracking)||||
+|[DP](https://leetcode.com/problemset/all/?topicSlugs=dynamic-programming)||||
+|[Tree](https://leetcode.com/problemset/all/?topicSlugs=tree)||||
+|[BST](https://leetcode.com/problemset/all/?topicSlugs=binary-search-tree)||||
+|[Heap](https://leetcode.com/problemset/all/?topicSlugs=heap)||||
+|[Stack](https://leetcode.com/problemset/all/?topicSlugs=stack)||||
+|[Queue](https://leetcode.com/problemset/all/?topicSlugs=queue)||||
+|[DFS](https://leetcode.com/problemset/all/?topicSlugs=depth-first-search)||||
+|[BFS](https://leetcode.com/problemset/all/?topicSlugs=breadth-first-search)||||
+|[Graph](https://leetcode.com/problemset/all/?topicSlugs=graph)||||
 
 ### Problems
 | No. | Problem | Solution | Difficulty | Tags |
